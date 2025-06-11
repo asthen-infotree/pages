@@ -1,5 +1,5 @@
 ---
-title: "YOUR-TITLE"
+title: "The Unexpected Genius of Being Bored"
 date: 2025-06-11
 ---
 <p><b>The Unexpected Genius of Being Bored</b>
